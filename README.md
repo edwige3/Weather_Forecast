@@ -10,7 +10,7 @@
 ###  Install the Project
 
 ```bash
-git clone https://github.com/benjaminbenteke/Weather_Forecast.git
+git clone https://github.com/edwige3/Weather_Forecast.git
 ```
 
 ```bash
